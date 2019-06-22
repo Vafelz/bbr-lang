@@ -1,8 +1,9 @@
 Encoding=UTF-8
-Translated by NoOnex
-Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferson (05/12/2018), Vafels (12/02/2019), Vafels (19/03/2019)
+TRANSLATED BY NoOnex
+UPDATES: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferson (05/12/2018), Vafels (12/02/2019), Vafels (19/03/2019), Vafels (22/06/2019)
 
-// @1= these are variables, DO NOT CHANGE
+// VARIABLES KEY
+// @1, @2... @n: DO NOT CHANGE
 
 0=CAMPAIGN
 1=MULTIPLAYER
@@ -222,7 +223,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 215=@1 role is locked.
 216=You are assigned to @1 role already.
 217=You're the frontlines on the field. You attack the enemy forces head-on. //Assault Role Description
-218=You're responsible for keeping fellow soldiers alive and healed. //Medic Role Description 
+218=You're responsible for keeping fellow soldiers alive and healed. //Medic Role Description
 219=You suppress the enemies with light machine guns, allowing your team to advance. //Support Role Description
 220=You specialize in vehicle repair and destruction with explosives. //Engineer Role Description
 221=You watch over the battlefield, strategically taking out targets at range. //Recon Role Description
@@ -337,7 +338,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 330=Bleeding stopped
 331=Assist
 332=Enemy Neutralized
-333=Teams have been autobalanced. You may not change team.
+333=Teams have been auto-balanced. You may not change team.
 334= Press 'RMB' to stop animation
 335=Your game version does not match with the server.
 336=All //General chat
@@ -377,7 +378,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 370=Destroy @1
 371=Defend @1
 372=Defuse @1
-373=Kill @1 enemies 
+373=Kill @1 enemies
 374=Objective @1 armed
 375=Eliminate remaining enemies in the area
 376=Return to the battlefield!
@@ -406,27 +407,27 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 399=Out of Time
 400=@1 KILLS
 401=[@1] UNLOCKED
-402=@2 [@1] UNLOCKED 
+402=@2 [@1] UNLOCKED
 403=@1 HEADSHOTS
 404=HEALED @1 TEAMMATES
 405=DEFENDED @1 TIMES
 406=RANK @1
-407=Your account is banned from BattleBit Servers. /?
-408=Master server couldn't verify your account. /?
-409=Your steam name is not allowed in BattleBit servers. /?
-410=Steam couldn't verify your steam account that you are running. /?
+407=Your account has been banned from BattleBit Servers.
+408=Master server couldn't verify your account.
+409=Your steam name is not allowed in BattleBit servers.
+410=Steam couldn't verify the steam account that you are running.
 411=Hit Markers
-412=Loading Level...//For loading screen
-413=[ Advance and Secure ]//																		Loading Screen
-414=• Each friendly spawn decreases tickets from your team.//										Loading Screen AAS Tip 1
-415=• Each friendly vehicle explosion decreases a huge amount of tickets from your team.//			Loading Screen AAS Tip 2
-416=• You are allowed to capture further flags after previous ones have been captured.//			Loading Screen AAS Tip 3
-417=• Capture all the flags.//																		Loading Screen AAS Tip 4
-418=• Defend your own flags.//																		Loading Screen AAS Tip 5
-419=[ Team Death Match ]//																			Loading Screen
-420=• Each kill decreases 1 ticket from enemy team.//												Loading Screen TDM Tip 1
-421=• Win by ending enemy team's tickets.//															Loading Screen TDM Tip 2
-422=• Win by having bigger ticket count whenever round timer ends.//								Loading Screen TDM Tip 3
-423=Connecting to server and synchronizing.
-424=Connection Faild.
-425=Connected.//																					Loading Screen
+412=Loading Level... //Loading screen
+413=[ Advance and Secure ] //Loading screen
+414=• Each spawn decreases your tickets. //Loading screen tip
+415=• Each friendly vehicle destroyed decreases your tickets. //Loading screen tip
+416=• You must capture the current flag before proceeding to the next objectives. //Loading screen tip
+417=• Capture all the objectives. //Loading screen tip
+418=• Defend your own flags. //Loading screen tip
+419=[ Team Death Match ] //Loading screen
+420=• Each kill decreases 1 ticket from the enemy team.//Loading screen tip
+421=• Win by removing all enemy tickets. //Loading screen tip
+422=• The team with the most tickets at the end of the round wins. //Loading screen tip
+423=Connecting to the server and synchronizing
+424=Connection Failed
+425=Connected
